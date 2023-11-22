@@ -41,8 +41,8 @@ const DISHES = [
 
     {
         id: 1,
-        name: 'Ginger Burger',
-        image: 'assets/images/0burger.jpg',
+        name: 'pasta',
+        image: 'assets/images/pasta.jpg',
         category: 'meal',
         label: 'Hot',
         price: '199',
@@ -81,8 +81,8 @@ const DISHES = [
 
     {
         id: 2,
-        name: 'Ginger Burger',
-        image: 'assets/images/0burger.jpg',
+        name: 'Pizza',
+        image: 'assets/images/pizza.jpg',
         category: 'meal',
         label: 'Hot',
         price: '199',
